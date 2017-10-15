@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Let\'s Do This</string>
+
+    <string-array name="lists">
+        <item> School </item>
+        <item> Work </item>
+        <item> Home </item>
+    </string-array>
+</resources>
